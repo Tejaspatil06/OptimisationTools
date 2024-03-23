@@ -1,2 +1,2 @@
 # OptimisationTools
-Machine Learning model created for optimisation of Economic aspects.
+Machine Learning model for optimisation of Economic aspects.
