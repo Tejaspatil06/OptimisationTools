@@ -37,6 +37,6 @@ scikit-learn: Machine learning library for Python
 
 Contributors
 
-Kaushal Malpure
-Tejas Patil
+Kaushal Malpure,
+Tejas Patil,
 Vanshika Sharma
